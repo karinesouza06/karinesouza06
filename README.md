@@ -6,7 +6,7 @@
   <h1>Olá, seja bem vindo(a)!</h1>
 
   - Técnica de Informática para Internet, em formação, pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte.
-  - Atualmente estudando: Flask, Sqlite e Mysql.
+  - Atualmente estudando: Flask e Mysql.
 
     
   <i class="devicon-threedsmax-plain "></i>
