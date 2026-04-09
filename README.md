@@ -5,7 +5,7 @@
 <body>
   <h1>Olá, seja bem vindo(a)!</h1>
 
-  - Técnica de Informática para Internet, em formação, pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte.
+  - Técnica de Informática para Internet, formada pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte.
 
 
     
